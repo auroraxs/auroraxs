@@ -1,4 +1,4 @@
-## Hi, I am auroraxs 👋
+## Hi, i am auroraxs 👋
 
 
 **auroraxs/auroraxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
